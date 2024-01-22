@@ -1,0 +1,59 @@
+{
+    "bannerList": [
+        {
+            "image": "https://i.ibb.co/ZKXV3Yg/sbanner1.jpg",
+            "url": "https://unec.edu.az/application/uploads/2014/12/pdf-sample.pdf",
+            "isPdfRewarded": true
+        },
+        {
+            "image": "https://i.ibb.co/tKKK8VW/sbanner2.jpg",
+            "url": "https://unec.edu.az/application/uploads/2014/12/pdf-sample.pdf",
+            "isPdfRewarded": true
+        },
+        {
+            "image": "https://i.ibb.co/s2jQX6Y/sbanner3.jpg",
+            "url": "https://unec.edu.az/application/uploads/2014/12/pdf-sample.pdf",
+            "isPdfRewarded": true
+        }
+    ],
+    "pdfList": [
+        {
+            "image": "https://drive.google.com/uc?export=view&id=1jQN8wuN6Zbaz17sjqeJCerZTqaRi2pJB",
+            "url": "https://unec.edu.az/application/uploads/2014/12/pdf-sample.pdf",
+            "isPdf": true
+        },
+        {
+            "image": "https://drive.google.com/uc?export=view&id=1rORrMmtg9WCeDuN9Wpqt-nn2XH6XOS8N",
+            "url": "https://drive.google.com/file/d/1iJJ_H-IFjJZIT2jbjTCq7Lpl4wMlLZjO/preview",
+            "isPdf": true
+        },
+        {
+            "image": "https://drive.google.com/uc?export=view&id=18uUULd_LfFO_DS1fllizFUIDJfq1NpSG",
+            "url": "https://drive.google.com/file/d/1St8yf0pOe88gNQz3UVIu24tG5W0E4ryX/view?usp=drive_link",
+            "isPdf": true
+        },
+        {
+            "image": "https://drive.google.com/uc?export=view&id=1rujakRrAcOys7CmHTtaoyI833LbXAbS_",
+            "url": "https://www.adobe.com/support/products/enterprise/knowledgecenter/media/c4611_sample_explain.pdf",
+            "isPdf": true
+        },
+        {
+            "image": "https://drive.google.com/uc?export=view&id=1rORrMmtg9WCeDuN9Wpqt-nn2XH6XOS8N",
+            "url": "https://drive.google.com/file/d/1iJJ_H-IFjJZIT2jbjTCq7Lpl4wMlLZjO/preview",
+            "isPdf": true
+        },
+        {
+            "image": "https://drive.google.com/uc?export=view&id=18uUULd_LfFO_DS1fllizFUIDJfq1NpSG",
+            "url": "https://drive.google.com/file/d/11U1GOabO9RoMrdFsKvHHECL_leIUBy8P/view?usp=drive_link",
+            "isPdf": true
+        }
+    ],
+    "privacyPolicy": {
+        "url": "https://businessgrowapp.blogspot.com/2023/09/amway-india-privacy-policy.html",
+        "isPdf": false
+    },
+    "aboutUs": {
+        "url": "https://businessgrowapp.blogspot.com/2023/09/amway-india-about-us.html",
+        "isPdf": false
+    }
+}
